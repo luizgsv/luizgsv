@@ -1,8 +1,6 @@
 ### Olá, Eu me chamo Luiz Gustavo e sou Dev Frontend. 👋
 
-<div> 
-  <a href="https://www.linkedin.com/in/luiz-vargas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
 
 <div class="stats">
   <a href="https://github.com/luizgsv">
@@ -26,3 +24,9 @@
 </div
 
 ![Snake animation](https://github.com/luizgsv/luizgsv/blob/output/github-contribution-grid-snake.svg)
+
+### Sociais:
+
+<div> 
+  <a href="https://www.linkedin.com/in/luiz-vargas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
