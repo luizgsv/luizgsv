@@ -1,15 +1,5 @@
 ### Olá, Eu me chamo Luiz Gustavo e sou Dev Frontend. 👋
 
-
-
-<div class="stats">
-  <a href="https://github.com/luizgsv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgsv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgsv&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
-
 <div class='frameworks'><br> 
 
 ### Framework, Linguagens e Bibliotecas de Programação. 👨🏽‍💻​
