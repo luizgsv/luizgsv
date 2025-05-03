@@ -46,7 +46,7 @@ Sou movido por desafios e pela vontade constante de aprender. Estudo diariamente
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-vargas)
 
 📬 Me mande uma mensagem se quiser trocar ideias sobre tecnologia ou colaborar em projetos!
 
