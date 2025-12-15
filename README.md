@@ -1,46 +1,66 @@
-# 👋 Olá, eu sou o Luiz Gustavo
+# 👋 Olá, eu sou o Luiz Gustavo (LG)
 
-🎯 Desenvolvedor Frontend apaixonado por tecnologia e inovação.  
-🎓 Técnico em Desenvolvimento de Software pelo CEDUP Abílio Paulo.  
-🚀 Atualmente atuando como Desenvolvedor IV na AGPR5 +20.  
-📍 Criciúma/SC, Brasil  
-🧠 Sempre aprendendo e evoluindo!
-
----
-
-## 🧑‍💻 Sobre mim
-
-Com 4 anos de experiência na área de desenvolvimento web, sou especialista em **Frontend** com foco em performance, acessibilidade e boas práticas. Tenho experiência sólida em **React**, **React Native**, **Next.js** e **TypeScript**, além de noções em **Angular**.
-
-Sou movido por desafios e pela vontade constante de aprender. Estudo diariamente através de cursos, vídeos e leitura de documentação técnica. Minha missão é entregar interfaces modernas, intuitivas e eficientes.
+💻 Desenvolvedor Full Stack  
+⚡ Performance • Padronização • Escalabilidade  
+🚀 Desenvolvedor IV na AGPR5 +20  
+📍 Criciúma/SC — Brasil
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🧠 Sobre mim
 
-- **Linguagens:** HTML5, CSS3, JavaScript, TypeScript
-- **Frameworks & Libs:** React JS, React Native, Next JS, Angular (básico)
-- **Estilo e UI:** Tailwind CSS, Styled-Components, Sass, Figma
-- **Gerenciamento & Forms:** React Query, React Hook Form, Zod
-- **Backend:** Fastify (estudando), Prisma ORM
-- **Outros:** Git, GitHub, Vite, Webpack, Docker, APIs REST
+Sou **Desenvolvedor Full Stack** com **mais de 4 anos de experiência**, atuando no desenvolvimento e sustentação de **produtos web em produção**, sempre com foco em **arquitetura**, **boas práticas** e **performance**.
 
----
+Atualmente trabalho como **Desenvolvedor IV na AGPR5 +20**, participando ativamente da evolução de sistemas escaláveis, manutenção de código legado e construção de novas soluções com impacto real no produto.
 
-## 🌱 Atualmente estudando
-
-- **React (avançado):** Aprofundando em gerenciamento de estado, hooks personalizados, performance, roteamento e melhores práticas em aplicações escaláveis.
-- **Next.js:** Foco em rotas dinâmicas, SSR (Server-Side Rendering), SSG e API Routes.
-- **Backend com Fastify:** Construção de APIs REST performáticas e minimalistas.
-- **Prisma ORM:** Integração segura e tipada com bancos de dados em projetos Node.js.
-- **Clean Architecture no backend:** Estruturando projetos com foco em desacoplamento, testabilidade e organização de camadas.
-- **Docker:** Contêinerização de aplicações e configuração de ambientes de desenvolvimento replicáveis.
+Curto código bem pensado, padrões claros e times que valorizam evolução contínua — técnica e humana.
 
 ---
 
-## 📈 GitHub Stats
+## ⚙️ Atuação técnica
 
-<img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=luizgsv&theme=radical&mode=weekly" />
+### 🎨 Frontend
+- React
+- Next.js
+- TypeScript
+- Arquitetura de componentes
+- Otimização de performance
+- Experiência do usuário (UX)
+
+### 🧠 Backend
+- Node.js
+- NestJS
+- Fastify
+- Prisma ORM
+- APIs REST
+- GraphQL
+
+### 🐳 Infra & Dev
+- Docker
+- Organização de ambientes
+- Estruturação de pipelines e workflows
+
+---
+
+## 🌟 Diferenciais
+
+- Criação de documentação técnica e guias de desenvolvimento
+- Apoio técnico e formação de desenvolvedores
+- Sustentação, manutenção e evolução de sistemas em produção
+- Visão de produto aliada à qualidade técnica
+
+---
+
+## 🎓 Formação & aprendizado
+
+- 🎓 Técnico em Desenvolvimento de Software — CEDUP Abílio Paulo
+- 📚 Aprendizado contínuo com Rocketseat, estudos autodidatas e projetos reais
+
+---
+
+## 🚀 Objetivo
+
+Atuar em times que valorizem **qualidade técnica**, **organização** e **evolução contínua**, contribuindo com soluções completas, escaláveis e com **impacto real no produto**.
 
 ---
 
@@ -48,6 +68,5 @@ Sou movido por desafios e pela vontade constante de aprender. Estudo diariamente
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-vargas)
 
-📬 Me mande uma mensagem se quiser trocar ideias sobre tecnologia ou colaborar em projetos!
-
----
+Curte trocar ideia sobre frontend, backend, arquitetura ou produto?  
+Só chamar 🤝
